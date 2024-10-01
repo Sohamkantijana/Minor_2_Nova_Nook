@@ -6,3 +6,5 @@ Welcome to our Ecommerce Shopping Website, a dynamic and feature-packed platform
 
 Completed The analytical part of Admin Dashboard
 ![Picture1](https://github.com/user-attachments/assets/41b5c3c8-f1f6-4fbc-bf97-65ba43ce7ee9)
+![Picture2](https://github.com/user-attachments/assets/545df394-311c-455b-9422-28353e6c6435)
+
